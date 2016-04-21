@@ -8,4 +8,10 @@ public class Main {
         System.out.println("Hello");
     }
 
+    static void tEsT(int t, char [] tt){
+        String g = null ;
+        for( int a = 0 ; a < 100 ; a ++){
+            g.charAt(a) ;
+        }
+    }
 }
