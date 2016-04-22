@@ -14,4 +14,12 @@ public class Main {
             g.charAt(a) ;
         }
     }
+
+    static void TEsT(int t, char [] tt, float b){
+        String g = null ;
+        String f = g ;
+        for( int a = 0 ; a < 100 ; a ++){
+            f.charAt(a) ;
+        }
+    }
 }
